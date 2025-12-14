@@ -1,93 +1,73 @@
-# 👋 Hi there, I'm **Mohamed Marzouk**
-
----
-
-## ✨ Software Engineer | Full-Stack, Embedded & Hardware Designer
+# 🚀 Mohamed Marzouk: Full-Stack Engineer & Embedded Systems Architect
 
 <div align="center">
-    <img src="https://img.shields.io/badge/Full--Stack%20Development-blue?style=for-the-badge&logo=react" alt="Full-Stack Badge"/>
-    <img src="https://img.shields.io/badge/Embedded%20Systems-red?style=for-the-badge&logo=arduino" alt="Embedded Systems Badge"/>
-    <img src="https://img.shields.io/badge/PCB%20Design-green?style=for-the-badge&logo=kicad" alt="PCB Design Badge"/>
+    <img src="https://img.shields.io/badge/Status-Seeking%20Opportunities-007ACC?style=for-the-badge&logo=probot" alt="Seeking Opportunities"/>
+    <img src="https://img.shields.io/badge/Stack-MERN%20|%20Next.js-2396ED?style=for-the-badge&logo=react" alt="Web Stack"/>
+    <img src="https://img.shields.io/badge/Hardware-ATmega32%20|%20KiCad-A50044?style=for-the-badge&logo=microchip" alt="Hardware Stack"/>
+    <img src="https://img.shields.io/badge/Language-C%20|%20JavaScript-F7DF1E?style=for-the-badge&logo=javascript" alt="Primary Languages"/>
 </div>
 
 ---
 
-## 🚀 About My Journey
+## 🎯 Profile Snapshot
 
-I'm a passionate **Software Engineer** dedicated to bridging the gap between the digital and physical worlds. My expertise spans from building dynamic, interactive **web applications** to designing and programming **real-world electronic systems** and custom **Printed Circuit Boards (PCBs)**.
+Software Engineer focused on delivering end-to-end solutions by integrating **Full-Stack Web Development** with **Embedded Systems** and **PCB Design**. Expert in translating complex conceptual requirements into robust, scalable software and functional physical hardware.
 
-I believe in creating **smart solutions** that are robust, efficient, and seamlessly connect software with hardware.
+> **Core Philosophy:** Bridging the digital interface (Web) with the physical world (Hardware) to create smart, automated, and impactful systems.
 
 ---
 
-## 🧠 Core Competencies & Focus Areas
+## 🛠️ Technical Expertise
 
-| Domain | Description | Key Technologies |
+### I. Web Development & Cloud Infrastructure 
+| Category | Key Technologies | Proficiency Highlights |
 | :--- | :--- | :--- |
-| **💻 Full-Stack Development** | Building useful, interactive, and scalable web applications. | React, Next.js, Node.js, Firebase |
-| **🔩 Embedded Systems** | Hands-on experience developing real-world firmware and control logic. | C, Embedded C, ATmega32, RTOS, Sensors & Actuators |
-| **🧰 PCB & Hardware Design** | Transforming concepts into working physical hardware using industry-standard tools. | KiCad, Custom Manufacturing & Prototyping |
+| **Frontend/UI** | **React**, **Next.js**, JavaScript (ES6+), HTML, CSS | Building high-performance, server-side rendered (SSR) and static sites. |
+| **Backend/Data** | **Node.js**, **Firebase** (Firestore, Auth, Functions) | Developing efficient, scalable backend services and real-time data integration. |
+| **DevOps/Deployment**| Vercel, GitHub Pages, Firebase Hosting | Continuous deployment and optimized performance management. |
+
+### II. Embedded Systems & Firmware Engineering
+* **Languages:** **C**, **Embedded C** (Deep low-level hardware interaction).
+* **Microcontrollers:** **ATmega32** (Primary expertise), Arduino Ecosystem.
+* **Protocols & Middleware:** Implementation of **RTOS** (Real-Time Operating Systems), I2C, UART, SPI for reliable inter-device communication.
+* **Peripherals:** Extensive experience in driver development for diverse sensors and actuators.
+
+### III. PCB Design & Hardware Realization
+* **Tooling:** **KiCad** (Schematic Capture, Layout, 3D Viewing).
+* **Experience:** Full hardware design lifecycle, from conceptualizing to generating production-ready Gerber files.
+* **Achievement:** Successful design and manufacturing of complex control boards for commercial applications.
 
 ---
 
-## 💡 Technical Toolkit
+## ✨ Selected Project Portfolio (Demonstrating Integration)
 
-### 🌐 Web Development Stack
-* **Frontend:** HTML5, CSS3, **JavaScript (ES6+)**, **React**, **Next.js**
-* **Backend & Data:** **Node.js**, **Firebase** (Firestore, Auth, Hosting)
-* **Deployment:** Vercel, GitHub Pages, Firebase Hosting
+### 🥇 Hardware-Software Integrated Solutions
 
-### 🔧 Embedded Systems & Firmware
-* **Languages:** **C**, **Embedded C**
-* **Microcontrollers:** **ATmega32**, Arduino Platforms
-* **Protocols & Tech:** **RTOS** (Real-Time Operating Systems), I2C, UART, SPI
-* **Peripherals:** Extensive experience with all types of sensors and actuators.
+* **Washing Machine Controller Board:** > **Impact:** Designed, developed, and manufactured a custom PCB and firmware (**ATmega32** + **KiCad**) to serve as a complete, drop-in replacement control unit, ensuring functional redundancy and optimized control logic.
+* **Smart Farm System (IoT Ready):** > **Focus:** Automated environmental controls (Irrigation, Temp/Humidity monitoring) using **ATmega32** to maximize yield efficiency and resource management.
 
-### ⚙️ PCB Design & Manufacturing
-* **Tool:** **KiCad**
-* **Experience:** Full lifecycle design, schematic capture, layout, Gerber file generation, and custom manufacturing oversight.
+### 🥈 Scalable Software & AI Projects
+
+* **AI Website Builder (Next.js):** > **Focus:** A full-stack web application leveraging AI APIs to generate complete, functional landing pages and websites from user prompts, minimizing development overhead.
+* **Learn English with AI (React/Firebase):** > **Focus:** Interactive learning platform utilizing AI chat features for personalized vocabulary building and integrated **Firebase** for robust progress tracking and user authentication.
+
+### 🥉 C/Firmware Development
+
+* **Full Clink System:** High-quality, modular, terminal-based system written in **C**, highlighting exceptional structured programming practices.
+* **Cairo Metro Simulation:** Detailed logic and behavior simulation of a complex transit network using structured **C** programming.
 
 ---
 
-## 🔥 Highlighted Projects
+## 🌐 Get In Touch
 
-### 🌟 Hardware & Embedded Systems
-
-| Project | Description | Tech Used |
+| Contact Method | Details | Action Link |
 | :--- | :--- | :--- |
-| **Washing Machine Controller Board** | 🏆 **Full Embedded Control System** and **Custom PCB Design** to replace a faulty commercial washing machine board, demonstrating practical hardware expertise. | Embedded C, ATmega32, **KiCad** |
-| **Smart Farm System** | Automated irrigation, precise temperature monitoring, and environmental controls for efficient farming, built on a robust microcontroller platform. | Embedded C, ATmega32, Sensors |
-| **Full Clink System** | A complete, modular, and structured terminal-based system, showcasing strong programming fundamentals and design. | C Language |
-| **Cairo Metro Simulation System** | A comprehensive simulation of metro system logic and behavior, utilizing structured programming principles. | C Language |
-
-### 🚀 Web Applications
-
-| Project | Description | Tech Used |
-| :--- | :--- | :--- |
-| **AI Website Builder** | A cutting-edge web application capable of generating full landing pages and websites using AI, eliminating the need for manual coding. | Next.js, AI APIs |
-| **Learn English with AI** | An interactive learning system featuring AI chat functionalities and progress tracking to help users master English vocabulary. | React, Firebase, AI APIs |
-
----
-
-## 📫 Let's Connect!
-
-I'm always open to discussing new projects, collaborations, or innovative hardware/software challenges. Feel free to reach out!
-
-<div align="center">
-    <a href="https://linkedin.com/in/mohamed-tarek-marzouk" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="mailto:mohamedtarekmarzouk@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-    </a>
-    <a href="https://profile-mohamed-tarek.vercel.app" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-539E43?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
-    </a>
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
-    <span>+20 100 019 6382</span>
-</div>
+| 📧 Email | `mohamedtarekmarzouk@gmail.com` | [Send Email](mailto:mohamedtarekmarzouk@gmail.com) |
+| 📞 WhatsApp | `+20 100 019 6382` | [Message on WhatsApp](https://wa.me/201000196382) |
+| 🔗 LinkedIn | `in/mohamed-tarek-marzouk` | [View Profile](https://linkedin.com/in/mohamed-tarek-marzouk) |
+| 🌍 Portfolio | `profile-mohamed-tarek.vercel.app` | [Visit Portfolio](https://profile-mohamed-tarek.vercel.app) |
 
 ---
 <div align="center">
-    *Code & Connections: The Future is Integrated*
+    *Mohamed Marzouk | Integrating Code, Hardware, and Innovation.*
 </div>
